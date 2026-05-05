@@ -1,0 +1,11 @@
+# requirements.txt
+langchain==0.1.0
+langchain-openai==0.0.2
+langchain-community==0.0.10
+chromadb==0.4.22
+pypdf==3.17.4
+streamlit==1.29.0
+python-dotenv==1.0.0
+tiktoken==0.5.2
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
